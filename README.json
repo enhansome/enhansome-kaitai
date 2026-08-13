@@ -270,7 +270,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T21:57:05Z",
+            "last_commit": "2026-08-13T07:37:03Z",
             "owner": "oracle",
             "repo": "graal",
             "stars": 21661
@@ -901,10 +901,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T03:30:06Z",
+            "last_commit": "2026-08-13T07:14:29Z",
             "owner": "wireshark",
             "repo": "wireshark",
-            "stars": 9718
+            "stars": 9720
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:36.728Z",
+    "last_updated": "2026-08-13T08:02:53.347Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
     "enhanced_repository": "enhansome/enhansome-kaitai",
