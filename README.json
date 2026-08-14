@@ -14,7 +14,7 @@
             "last_commit": "2026-05-04T13:54:40Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_compiler",
-            "stars": 655
+            "stars": 656
           }
         },
         {
@@ -270,10 +270,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T07:37:03Z",
+            "last_commit": "2026-08-13T20:35:00Z",
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21661
+            "stars": 21662
           }
         },
         {
@@ -304,7 +304,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kaitai Struct",
-            "last_commit": "2026-08-12T13:43:25Z",
+            "last_commit": "2026-08-13T21:30:55Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794
@@ -901,10 +901,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T07:14:29Z",
+            "last_commit": "2026-08-14T07:28:33Z",
             "owner": "wireshark",
             "repo": "wireshark",
-            "stars": 9720
+            "stars": 9725
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2026-08-11T21:41:06Z",
             "owner": "sleuthkit",
             "repo": "sleuthkit",
-            "stars": 3124
+            "stars": 3127
           }
         },
         {
@@ -968,7 +968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:02:53.347Z",
+    "last_updated": "2026-08-14T07:58:46.950Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
     "enhanced_repository": "enhansome/enhansome-kaitai",
