@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,662 | 🐛 843 | 🌐 Java | 📅 2026-08-14, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,635 | 🐛 61 | 🌐 Python | 📅 2026-08-13, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,661 | 🐛 846 | 🌐 Java | 📅 2026-08-15, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,635 | 🐛 62 | 🌐 Python | 📅 2026-08-13, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -145,9 +145,9 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,729 | 🐛 2 | 🌐 C | 📅 2026-08-14 - Parsers for Wireshark
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,730 | 🐛 2 | 🌐 C | 📅 2026-08-16 - Parsers for Wireshark
 * [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,127 | 🐛 479 | 🌐 C | 📅 2026-08-11 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,525 | 🐛 89 | 🌐 C | 📅 2026-04-25 - Grammars used by TestDisk and PhotoRec
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,528 | 🐛 89 | 🌐 C | 📅 2026-04-25 - Grammars used by TestDisk and PhotoRec
 * [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,013 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
