@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52196052,
             "language": "Scala",
             "last_commit": "2026-05-04T13:54:40Z",
             "owner": "kaitai-io",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222257494,
             "language": "Nim",
             "last_commit": "2020-11-18T03:45:45Z",
             "owner": "sealmove",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 206424312,
             "language": "Go",
             "last_commit": "2022-04-20T10:04:46Z",
             "owner": "cugu",
@@ -49,179 +52,193 @@
       "title": "Compiler"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Visualizers, IDEs, hex editors"
-    },
-    {
-      "description": "These tools allow to develop your own Kaitai Struct specifications in iterative fashion by visualizing data locations in hex dump as one develops .ksy.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Hobbits (Repository",
-          "description": ")",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-16T14:32:27Z",
-            "owner": "Mahlet-Inc",
-            "repo": "hobbits",
-            "stars": 748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kaitai Struct: visualizer and hex viewer tool (Repository",
-          "description": ")",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-10-21T16:27:06Z",
-            "owner": "kaitai-io",
-            "repo": "kaitai_struct_visualizer",
-            "stars": 339
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kaitai Web IDE",
-          "description": "(Repository, Github Page, Wiki Documentation)",
           "children": [
             {
               "node_type": "item",
-              "title": "webide-usercontent.kaitai.io",
-              "description": "Used in sandboxing for the WebIDE",
+              "title": "Hobbits (Repository",
+              "description": ")",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "HTML",
-                "last_commit": "2017-07-12T22:27:18Z",
-                "owner": "kaitai-io",
-                "repo": "webide-usercontent.kaitai.io",
-                "stars": 1
+                "id": 238995181,
+                "language": "Python",
+                "last_commit": "2025-04-16T14:32:27Z",
+                "owner": "Mahlet-Inc",
+                "repo": "hobbits",
+                "stars": 749
               }
             },
             {
               "node_type": "item",
-              "title": "Web IDE Docs",
-              "description": "Images for the documentation",
+              "title": "Kaitai Struct: visualizer and hex viewer tool (Repository",
+              "description": ")",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2017-09-20T19:28:15Z",
+                "id": 56528412,
+                "language": "Ruby",
+                "last_commit": "2025-10-21T16:27:06Z",
                 "owner": "kaitai-io",
-                "repo": "kaitai_struct_webide_docs",
+                "repo": "kaitai_struct_visualizer",
+                "stars": 340
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kaitai Web IDE",
+              "description": "(Repository, Github Page, Wiki Documentation)",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "webide-usercontent.kaitai.io",
+                  "description": "Used in sandboxing for the WebIDE",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 94814536,
+                    "language": "HTML",
+                    "last_commit": "2017-07-12T22:27:18Z",
+                    "owner": "kaitai-io",
+                    "repo": "webide-usercontent.kaitai.io",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Web IDE Docs",
+                  "description": "Images for the documentation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 96042805,
+                    "language": null,
+                    "last_commit": "2017-09-20T19:28:15Z",
+                    "owner": "kaitai-io",
+                    "repo": "kaitai_struct_webide_docs",
+                    "stars": 0
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 72311002,
+                "language": "TypeScript",
+                "last_commit": "2026-01-01T19:20:17Z",
+                "owner": "kaitai-io",
+                "repo": "kaitai_struct_webide",
+                "stars": 317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kaitai Struct: visualizer and hex viewer tool GUI in Java (Repository",
+              "description": ", Issues)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71593871,
+                "language": "Java",
+                "last_commit": "2023-08-01T07:09:50Z",
+                "owner": "kaitai-io",
+                "repo": "kaitai_struct_gui",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kaitai Struct extension for VSCode (Marketplace",
+              "description": ", Overview video, Repository)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188671243,
+                "language": "TypeScript",
+                "last_commit": "2023-08-03T06:40:54Z",
+                "owner": "fudgepop01",
+                "repo": "fudgedit",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Development version of the IDE",
+              "description": "(Github Page)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84823586,
+                "language": "HTML",
+                "last_commit": "2017-06-25T20:52:19Z",
+                "owner": "kaitai-io",
+                "repo": "ide-devel-kaitai-io.github.io",
                 "stars": 0
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-01-01T19:20:17Z",
-            "owner": "kaitai-io",
-            "repo": "kaitai_struct_webide",
-            "stars": 316
-          }
+          "description": "These tools allow to develop your own Kaitai Struct specifications in iterative fashion by visualizing data locations in hex dump as one develops .ksy.",
+          "node_type": "group",
+          "title": "Arbitrary file formats"
         },
         {
-          "node_type": "item",
-          "title": "Kaitai Struct: visualizer and hex viewer tool GUI in Java (Repository",
-          "description": ", Issues)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-08-01T07:09:50Z",
-            "owner": "kaitai-io",
-            "repo": "kaitai_struct_gui",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kaitai Struct extension for VSCode (Marketplace",
-          "description": ", Overview video, Repository)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-08-03T06:40:54Z",
-            "owner": "fudgepop01",
-            "repo": "fudgedit",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Development version of the IDE",
-          "description": "(Github Page)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2017-06-25T20:52:19Z",
-            "owner": "kaitai-io",
-            "repo": "ide-devel-kaitai-io.github.io",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Veles (Homepage",
+              "description": ", Repository)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 78717776,
+                "language": "C++",
+                "last_commit": "2019-06-16T09:07:16Z",
+                "owner": "codilime",
+                "repo": "veles",
+                "stars": 1239
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytai (Repository",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394894342,
+                "language": "Python",
+                "last_commit": "2025-09-24T13:47:57Z",
+                "owner": "Dvd848",
+                "repo": "pytai",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kaitai Struct plugin for Binary Ninja (Repository",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211350672,
+                "language": "Python",
+                "last_commit": "2026-07-28T18:57:59Z",
+                "owner": "Vector35",
+                "repo": "kaitai",
+                "stars": 46
+              }
+            }
+          ],
+          "description": "These visualizers / hex editors allow only fixed set of precompiled file format specifications to be used.",
+          "node_type": "group",
+          "title": "Fixed set of file formats"
         }
       ],
-      "title": "Arbitrary file formats"
+      "title": "Visualizers, IDEs, hex editors"
     },
     {
-      "description": "These visualizers / hex editors allow only fixed set of precompiled file format specifications to be used.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Veles (Homepage",
-          "description": ", Repository)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2019-06-16T09:07:16Z",
-            "owner": "codilime",
-            "repo": "veles",
-            "stars": 1239
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytai (Repository",
-          "description": ")",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-24T13:47:57Z",
-            "owner": "Dvd848",
-            "repo": "pytai",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kaitai Struct plugin for Binary Ninja (Repository",
-          "description": ")",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-28T18:57:59Z",
-            "owner": "Vector35",
-            "repo": "kaitai",
-            "stars": 46
-          }
-        }
-      ],
-      "title": "Fixed set of file formats"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -230,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211564929,
             "language": "Python",
             "last_commit": "2021-08-15T15:05:25Z",
             "owner": "kaitai-io",
@@ -244,57 +262,63 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418758005,
             "language": "Python",
             "last_commit": "2021-11-01T02:47:50Z",
             "owner": "tins2831",
             "repo": "ksy-dl",
             "stars": 6
           }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "",
+                  "description": "an image with CPython, GraalVM, GraalPython, KSC, python runtime, , and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 49662222,
+                    "language": "Java",
+                    "last_commit": "2026-08-18T16:57:28Z",
+                    "owner": "oracle",
+                    "repo": "graal",
+                    "stars": 21663
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "",
+                  "description": "Kaitai Struct compiler in a container (Repository)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147114543,
+                    "language": "Dockerfile",
+                    "last_commit": "2018-09-03T19:25:35Z",
+                    "owner": "anonymousatc",
+                    "repo": "kaitai-ksc",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Docker images"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI"
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "CI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "an image with CPython, GraalVM, GraalPython, KSC, python runtime, , and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T06:47:37Z",
-            "owner": "oracle",
-            "repo": "graal",
-            "stars": 21663
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "Kaitai Struct compiler in a container (Repository)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2018-09-03T19:25:35Z",
-            "owner": "anonymousatc",
-            "repo": "kaitai-ksc",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Docker images"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -303,6 +327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54845016,
             "language": "Kaitai Struct",
             "last_commit": "2026-08-13T21:30:55Z",
             "owner": "kaitai-io",
@@ -317,6 +342,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94515358,
             "language": null,
             "last_commit": "2022-04-20T10:06:21Z",
             "owner": "cugu",
@@ -331,6 +357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96756420,
             "language": "Kaitai Struct",
             "last_commit": "2021-07-11T09:56:28Z",
             "owner": "kaitai-io",
@@ -345,6 +372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90160876,
             "language": "Ruby",
             "last_commit": "2020-11-23T10:34:07Z",
             "owner": "kaitai-io",
@@ -359,6 +387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92436587,
             "language": "Ruby",
             "last_commit": "2019-10-09T10:52:08Z",
             "owner": "kaitai-io",
@@ -373,6 +402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95110227,
             "language": null,
             "last_commit": "2019-10-09T11:03:49Z",
             "owner": "kaitai-io",
@@ -384,7 +414,7 @@
       "title": "Formats"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -393,6 +423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52151902,
             "language": "Python",
             "last_commit": "2026-08-08T01:22:42Z",
             "owner": "kaitai-io",
@@ -407,6 +438,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54116980,
             "language": "C++",
             "last_commit": "2026-07-30T06:59:35Z",
             "owner": "kaitai-io",
@@ -421,6 +453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87614942,
             "language": "Go",
             "last_commit": "2025-11-14T17:52:01Z",
             "owner": "kaitai-io",
@@ -435,6 +468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65820701,
             "language": "Rust",
             "last_commit": "2025-11-14T11:08:17Z",
             "owner": "kaitai-io",
@@ -449,6 +483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63403831,
             "language": "C#",
             "last_commit": "2026-04-17T12:53:54Z",
             "owner": "kaitai-io",
@@ -463,6 +498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52151623,
             "language": "Java",
             "last_commit": "2026-08-08T12:42:29Z",
             "owner": "kaitai-io",
@@ -482,6 +518,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 97975199,
                 "language": "JavaScript",
                 "last_commit": "2026-04-08T06:01:45Z",
                 "owner": "kaitai-io",
@@ -496,6 +533,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 99739317,
                 "language": "HTML",
                 "last_commit": "2017-08-09T01:01:42Z",
                 "owner": "kaitai-io",
@@ -506,6 +544,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 53526502,
             "language": "JavaScript",
             "last_commit": "2026-07-30T09:18:09Z",
             "owner": "kaitai-io",
@@ -520,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99325858,
             "language": "Lua",
             "last_commit": "2026-05-02T20:25:27Z",
             "owner": "kaitai-io",
@@ -534,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52152968,
             "language": "Ruby",
             "last_commit": "2026-08-04T11:43:24Z",
             "owner": "kaitai-io",
@@ -548,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65608459,
             "language": "PHP",
             "last_commit": "2026-04-07T10:43:15Z",
             "owner": "kaitai-io",
@@ -562,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205183109,
             "language": "Nim",
             "last_commit": "2025-12-07T20:29:34Z",
             "owner": "kaitai-io",
@@ -576,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56913079,
             "language": "Swift",
             "last_commit": "2019-10-03T06:39:50Z",
             "owner": "kaitai-io",
@@ -590,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65691719,
             "language": "Perl",
             "last_commit": "2025-11-14T11:06:12Z",
             "owner": "kaitai-io",
@@ -601,7 +646,7 @@
       "title": "Runtimes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -610,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52155797,
             "language": "Kaitai Struct",
             "last_commit": "2026-05-04T14:18:05Z",
             "owner": "kaitai-io",
@@ -624,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69572721,
             "language": "Kaitai Struct",
             "last_commit": "2023-08-04T09:18:25Z",
             "owner": "kaitai-io",
@@ -638,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87530818,
             "language": "Java",
             "last_commit": "2026-07-30T21:50:14Z",
             "owner": "kaitai-io",
@@ -652,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87831411,
             "language": null,
             "last_commit": "2026-07-27T09:18:39Z",
             "owner": "kaitai-io",
@@ -663,7 +712,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -672,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92182074,
             "language": "Python",
             "last_commit": "2023-10-13T13:56:12Z",
             "owner": "kaitai-io",
@@ -686,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141039688,
             "language": "Shell",
             "last_commit": "2024-09-04T07:38:03Z",
             "owner": "kaitai-io",
@@ -697,7 +748,7 @@
       "title": "Misc"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -706,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4218694,
             "language": "Python",
             "last_commit": "2025-04-22T05:09:12Z",
             "owner": "construct",
@@ -720,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10114632,
             "language": "Ruby",
             "last_commit": "2026-08-04T14:29:53Z",
             "owner": "dmendel",
@@ -734,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70394092,
             "language": "Common Lisp",
             "last_commit": "2026-07-09T05:41:05Z",
             "owner": "j3pic",
@@ -748,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35455291,
             "language": "Python",
             "last_commit": "2021-09-19T12:14:35Z",
             "owner": "renyxa",
@@ -762,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515984737,
             "language": "Python",
             "last_commit": "2026-08-10T08:41:57Z",
             "owner": "fox-it",
@@ -776,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5056985,
             "language": "JavaScript",
             "last_commit": "2014-11-14T14:30:01Z",
             "owner": "0xdabbad00",
@@ -790,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51453036,
             "language": "C#",
             "last_commit": "2017-06-23T12:58:18Z",
             "owner": "Michael-K-GH",
@@ -804,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 753180,
             "language": "Common Lisp",
             "last_commit": "2024-05-08T02:18:21Z",
             "owner": "frodef",
@@ -818,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38546887,
             "language": "Python",
             "last_commit": "2017-07-25T20:57:19Z",
             "owner": "vivisect",
@@ -832,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30369749,
             "language": "C",
             "last_commit": "2015-11-19T23:06:18Z",
             "owner": "padsproj",
@@ -846,129 +907,139 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69148118,
             "language": "Python",
             "last_commit": "2026-07-09T14:51:18Z",
             "owner": "libyal",
             "repo": "dtfabric",
             "stars": 13
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hecate",
+              "description": "Terminal hex editor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34143189,
+                "language": "Go",
+                "last_commit": "2022-05-03T00:34:32Z",
+                "owner": "evanmiller",
+                "repo": "hecate",
+                "stars": 675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hexalepis",
+              "description": "Win/Unix gui+terminal, tweak engine, .ksy visualization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190956609,
+                "language": "Nim",
+                "last_commit": "2020-08-22T19:37:37Z",
+                "owner": "sealmove",
+                "repo": "hexalepis",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hex Editors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Wireshark dissectors",
+              "description": "Parsers for Wireshark",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21329550,
+                "language": "C",
+                "last_commit": "2026-08-19T07:02:41Z",
+                "owner": "wireshark",
+                "repo": "wireshark",
+                "stars": 9739
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sleuth Kit file system grammars",
+              "description": "Grammars for different file systems",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2562873,
+                "language": "C",
+                "last_commit": "2026-08-19T03:11:29Z",
+                "owner": "sleuthkit",
+                "repo": "sleuthkit",
+                "stars": 3129
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TestDisk grammars",
+              "description": "Grammars used by TestDisk and PhotoRec",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37376198,
+                "language": "C",
+                "last_commit": "2026-04-25T15:34:01Z",
+                "owner": "cgsecurity",
+                "repo": "testdisk",
+                "stars": 2530
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Construct formats",
+              "description": "Parser for different file formats for the python construct package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4218694,
+                "language": "Python",
+                "last_commit": "2025-04-22T05:09:12Z",
+                "owner": "construct",
+                "repo": "construct",
+                "stars": 1013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HFSPlus Grammars",
+              "description": "HFS+ grammars for Synalysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46216777,
+                "language": null,
+                "last_commit": "2015-11-15T12:43:25Z",
+                "owner": "mac4n6",
+                "repo": "HFSPlus_Resources",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "File Grammars"
         }
       ],
       "title": "Similar projects / tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "hecate",
-          "description": "Terminal hex editor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-05-03T00:34:32Z",
-            "owner": "evanmiller",
-            "repo": "hecate",
-            "stars": 675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hexalepis",
-          "description": "Win/Unix gui+terminal, tweak engine, .ksy visualization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Nim",
-            "last_commit": "2020-08-22T19:37:37Z",
-            "owner": "sealmove",
-            "repo": "hexalepis",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Hex Editors"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Wireshark dissectors",
-          "description": "Parsers for Wireshark",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T01:20:58Z",
-            "owner": "wireshark",
-            "repo": "wireshark",
-            "stars": 9734
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sleuth Kit file system grammars",
-          "description": "Grammars for different file systems",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T18:51:04Z",
-            "owner": "sleuthkit",
-            "repo": "sleuthkit",
-            "stars": 3129
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TestDisk grammars",
-          "description": "Grammars used by TestDisk and PhotoRec",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-25T15:34:01Z",
-            "owner": "cgsecurity",
-            "repo": "testdisk",
-            "stars": 2530
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Construct formats",
-          "description": "Parser for different file formats for the python construct package",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-22T05:09:12Z",
-            "owner": "construct",
-            "repo": "construct",
-            "stars": 1013
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HFSPlus Grammars",
-          "description": "HFS+ grammars for Synalysis",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2015-11-15T12:43:25Z",
-            "owner": "mac4n6",
-            "repo": "HFSPlus_Resources",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "File Grammars"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:21:22.762Z",
+    "last_updated": "2026-08-19T07:22:17.753Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
     "enhanced_repository": "enhansome/enhansome-kaitai",

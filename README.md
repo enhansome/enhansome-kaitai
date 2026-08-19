@@ -2,7 +2,7 @@
 
 A curated list of Kaitai Struct tools and resources
 
-* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,655 | 🐛 524 | 🌐 Shell | 📅 2026-08-17, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,655 | 🐛 524 | 🌐 Shell | 📅 2026-08-17)
+* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,655 | 🐛 525 | 🌐 Shell | 📅 2026-08-17, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,655 | 🐛 525 | 🌐 Shell | 📅 2026-08-17)
 
 ## Compiler
 
@@ -18,9 +18,9 @@ These tools allow to develop your own Kaitai Struct specifications in
 iterative fashion by visualizing data locations in hex dump as one
 develops .ksy.
 
-* Hobbits ([Repository](https://github.com/Mahlet-Inc/hobbits) ⭐ 748 | 🐛 33 | 🌐 Python | 📅 2025-04-16)
-* Kaitai Struct: visualizer and hex viewer tool ([Repository](https://github.com/kaitai-io/kaitai_struct_visualizer) ⭐ 339 | 🐛 18 | 🌐 Ruby | 📅 2025-10-21)
-* [Kaitai Web IDE](https://ide.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_webide) ⭐ 316 | 🐛 93 | 🌐 TypeScript | 📅 2026-01-01, [Github Page](https://github.com/kaitai-io/ide-kaitai-io.github.io) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-19, [Wiki Documentation](https://github.com/kaitai-io/kaitai_struct_webide/wiki/Features) ⭐ 316 | 🐛 93 | 🌐 TypeScript | 📅 2026-01-01)
+* Hobbits ([Repository](https://github.com/Mahlet-Inc/hobbits) ⭐ 749 | 🐛 33 | 🌐 Python | 📅 2025-04-16)
+* Kaitai Struct: visualizer and hex viewer tool ([Repository](https://github.com/kaitai-io/kaitai_struct_visualizer) ⭐ 340 | 🐛 18 | 🌐 Ruby | 📅 2025-10-21)
+* [Kaitai Web IDE](https://ide.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_webide) ⭐ 317 | 🐛 93 | 🌐 TypeScript | 📅 2026-01-01, [Github Page](https://github.com/kaitai-io/ide-kaitai-io.github.io) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-11-19, [Wiki Documentation](https://github.com/kaitai-io/kaitai_struct_webide/wiki/Features) ⭐ 317 | 🐛 93 | 🌐 TypeScript | 📅 2026-01-01)
   * [webide-usercontent.kaitai.io](https://github.com/kaitai-io/webide-usercontent.kaitai.io) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2017-07-12 - Used in sandboxing for the WebIDE
   * [Web IDE Docs](https://github.com/kaitai-io/kaitai_struct_webide_docs) ⭐ 0 | 🐛 0 | 📅 2017-09-20 - Images for the documentation
 * Kaitai Struct: visualizer and hex viewer tool GUI in Java ([Repository](https://github.com/kaitai-io/kaitai_struct_gui) ⭐ 23 | 🐛 8 | 🌐 Java | 📅 2023-08-01, [Issues](https://github.com/kaitai-io/kaitai_struct_gui/issues) ⭐ 23 | 🐛 8 | 🌐 Java | 📅 2023-08-01)
@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,663 | 🐛 848 | 🌐 Java | 📅 2026-08-18, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,635 | 🐛 60 | 🌐 Python | 📅 2026-08-17, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,663 | 🐛 849 | 🌐 Java | 📅 2026-08-18, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,635 | 🐛 58 | 🌐 Python | 📅 2026-08-18, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -145,8 +145,8 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,734 | 🐛 2 | 🌐 C | 📅 2026-08-18 - Parsers for Wireshark
-* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,129 | 🐛 475 | 🌐 C | 📅 2026-08-17 - Grammars for different file systems
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,739 | 🐛 2 | 🌐 C | 📅 2026-08-19 - Parsers for Wireshark
+* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,129 | 🐛 475 | 🌐 C | 📅 2026-08-19 - Grammars for different file systems
 * [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,530 | 🐛 90 | 🌐 C | 📅 2026-04-25 - Grammars used by TestDisk and PhotoRec
 * [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,013 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
