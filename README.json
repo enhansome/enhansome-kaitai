@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-20T03:15:21Z",
+                    "last_commit": "2026-08-21T01:15:48Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21666
+                    "stars": 21668
                   }
                 },
                 {
@@ -329,7 +329,7 @@
             "archived": false,
             "id": 54845016,
             "language": "Kaitai Struct",
-            "last_commit": "2026-08-19T13:23:44Z",
+            "last_commit": "2026-08-20T19:54:15Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-20T07:17:58Z",
+                "last_commit": "2026-08-21T06:45:34Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9740
+                "stars": 9745
               }
             },
             {
@@ -981,7 +981,7 @@
                 "last_commit": "2026-08-19T03:11:29Z",
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3131
+                "stars": 3133
               }
             },
             {
@@ -996,7 +996,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2533
+                "stars": 2534
               }
             },
             {
@@ -1039,7 +1039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:24:32.165Z",
+    "last_updated": "2026-08-21T07:26:03.758Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_id": 147081663,
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
