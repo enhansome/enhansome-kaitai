@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-21T01:15:48Z",
+                    "last_commit": "2026-08-22T00:36:20Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21668
+                    "stars": 21666
                   }
                 },
                 {
@@ -329,7 +329,7 @@
             "archived": false,
             "id": 54845016,
             "language": "Kaitai Struct",
-            "last_commit": "2026-08-20T19:54:15Z",
+            "last_commit": "2026-08-21T18:03:12Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794
@@ -503,7 +503,7 @@
             "last_commit": "2026-08-08T12:42:29Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_java_runtime",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2026-07-30T09:18:09Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_javascript_runtime",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-21T06:45:34Z",
+                "last_commit": "2026-08-22T01:01:57Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9745
+                "stars": 9756
               }
             },
             {
@@ -981,7 +981,7 @@
                 "last_commit": "2026-08-19T03:11:29Z",
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3133
+                "stars": 3135
               }
             },
             {
@@ -996,7 +996,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2534
+                "stars": 2537
               }
             },
             {
@@ -1039,7 +1039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:26:03.758Z",
+    "last_updated": "2026-08-22T07:10:36.686Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_id": 147081663,
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
