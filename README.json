@@ -276,14 +276,14 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "GraalVM",
                   "description": "an image with CPython, GraalVM, GraalPython, KSC, python runtime, , and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-24T07:26:36Z",
+                    "last_commit": "2026-08-24T12:44:40Z",
                     "owner": "oracle",
                     "repo": "graal",
                     "stars": 21669
@@ -291,7 +291,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "",
+                  "title": "Repository",
                   "description": "Kaitai Struct compiler in a container (Repository)",
                   "children": [],
                   "repo_info": {
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-24T07:06:55Z",
+                "last_commit": "2026-08-24T09:11:21Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9768
+                "stars": 9769
               }
             },
             {
@@ -1039,7 +1039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:40:24.814Z",
+    "last_updated": "2026-08-24T14:31:49.716Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_id": 147081663,
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
