@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-22T00:36:20Z",
+                    "last_commit": "2026-08-24T07:26:36Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21668
+                    "stars": 21669
                   }
                 },
                 {
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-23T01:30:16Z",
+                "last_commit": "2026-08-24T07:06:55Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9759
+                "stars": 9768
               }
             },
             {
@@ -996,7 +996,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2541
+                "stars": 2544
               }
             },
             {
@@ -1039,7 +1039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:11:53.798Z",
+    "last_updated": "2026-08-24T07:40:24.814Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_id": 147081663,
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
