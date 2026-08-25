@@ -286,7 +286,7 @@
                     "last_commit": "2026-08-25T04:58:02Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21671
+                    "stars": 21670
                   }
                 },
                 {
@@ -1039,7 +1039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:53.912Z",
+    "last_updated": "2026-08-25T07:27:07.126Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_id": 147081663,
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
