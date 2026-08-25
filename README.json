@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-24T12:44:40Z",
+                    "last_commit": "2026-08-25T04:58:02Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21669
+                    "stars": 21671
                   }
                 },
                 {
@@ -329,7 +329,7 @@
             "archived": false,
             "id": 54845016,
             "language": "Kaitai Struct",
-            "last_commit": "2026-08-21T18:03:12Z",
+            "last_commit": "2026-08-24T17:13:35Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794
@@ -782,7 +782,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/j3pic/lisp-binary",
+          "title": "j3pic/lisp-binary",
           "description": "A library to easily read and write complex binary formats (Common Lisp)",
           "children": [],
           "repo_info": {
@@ -797,7 +797,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/renyxa/re-lab/tree/master/oletoy",
+          "title": "renyxa/re-lab",
           "description": null,
           "children": [],
           "repo_info": {
@@ -812,7 +812,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/fox-it/dissect.cstruct",
+          "title": "fox-it/dissect.cstruct",
           "description": null,
           "children": [],
           "repo_info": {
@@ -827,7 +827,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/0xdabbad00/icebuddha",
+          "title": "0xdabbad00/icebuddha",
           "description": null,
           "children": [],
           "repo_info": {
@@ -857,7 +857,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/frodef/binary-types",
+          "title": "frodef/binary-types",
           "description": "Read and write binary records for Common Lisp",
           "children": [],
           "repo_info": {
@@ -887,7 +887,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/padsproj/pads",
+          "title": "padsproj/pads",
           "description": null,
           "children": [],
           "repo_info": {
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-24T09:11:21Z",
+                "last_commit": "2026-08-25T04:39:28Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9769
+                "stars": 9774
               }
             },
             {
@@ -981,7 +981,7 @@
                 "last_commit": "2026-08-19T03:11:29Z",
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3136
+                "stars": 3137
               }
             },
             {
@@ -996,7 +996,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2544
+                "stars": 2545
               }
             },
             {
@@ -1039,7 +1039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:49.716Z",
+    "last_updated": "2026-08-25T06:25:53.912Z",
     "original_repository": "kaitai-io/awesome-kaitai",
     "original_repository_id": 147081663,
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
