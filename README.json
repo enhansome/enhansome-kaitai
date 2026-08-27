@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-27T11:07:05Z",
+                    "last_commit": "2026-08-27T17:28:02Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21675
+                    "stars": 21676
                   }
                 },
                 {
@@ -329,7 +329,7 @@
             "archived": false,
             "id": 54845016,
             "language": "Kaitai Struct",
-            "last_commit": "2026-08-26T13:15:35Z",
+            "last_commit": "2026-08-27T13:15:24Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-27T10:26:45Z",
+                "last_commit": "2026-08-27T12:23:51Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9784
+                "stars": 9786
               }
             },
             {
@@ -1039,7 +1039,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:57.929Z",
+    "last_updated": "2026-08-27T17:52:10.272Z",
     "original_repository_info": {
       "archived": false,
       "id": 147081663,
