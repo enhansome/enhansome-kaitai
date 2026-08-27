@@ -283,10 +283,10 @@
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-26T06:12:05Z",
+                    "last_commit": "2026-08-27T11:07:05Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21673
+                    "stars": 21675
                   }
                 },
                 {
@@ -329,7 +329,7 @@
             "archived": false,
             "id": 54845016,
             "language": "Kaitai Struct",
-            "last_commit": "2026-08-25T13:20:51Z",
+            "last_commit": "2026-08-26T13:15:35Z",
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794
@@ -963,10 +963,10 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-26T02:10:40Z",
+                "last_commit": "2026-08-27T10:26:45Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9780
+                "stars": 9784
               }
             },
             {
@@ -996,7 +996,7 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2547
+                "stars": 2550
               }
             },
             {
@@ -1039,9 +1039,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:28:19.062Z",
-    "original_repository": "kaitai-io/awesome-kaitai",
-    "original_repository_id": 147081663,
+    "last_updated": "2026-08-27T11:46:57.929Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 147081663,
+      "language": null,
+      "last_commit": "2023-10-10T21:37:32Z",
+      "owner": "kaitai-io",
+      "repo": "awesome-kaitai",
+      "stars": 221
+    },
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
     "enhanced_repository": "enhansome/enhansome-kaitai",
     "enhanced_repository_description": null,
