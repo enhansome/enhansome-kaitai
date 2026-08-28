@@ -16,7 +16,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_compiler",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "sealmove",
             "repo": "nimitai",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "cugu",
             "repo": "kaitaigo",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         }
       ],
       "title": "Compiler"
@@ -69,7 +72,8 @@
                 "owner": "Mahlet-Inc",
                 "repo": "hobbits",
                 "stars": 749
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -83,8 +87,9 @@
                 "last_commit": "2025-10-21T16:27:06Z",
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_visualizer",
-                "stars": 340
-              }
+                "stars": 341
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -104,7 +109,8 @@
                     "owner": "kaitai-io",
                     "repo": "webide-usercontent.kaitai.io",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:44.212Z"
                 },
                 {
                   "node_type": "item",
@@ -119,7 +125,8 @@
                     "owner": "kaitai-io",
                     "repo": "kaitai_struct_webide_docs",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:44.212Z"
                 }
               ],
               "repo_info": {
@@ -130,7 +137,8 @@
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_webide",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_gui",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "fudgepop01",
                 "repo": "fudgedit",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "kaitai-io",
                 "repo": "ide-devel-kaitai-io.github.io",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             }
           ],
           "description": "These tools allow to develop your own Kaitai Struct specifications in iterative fashion by visualizing data locations in hex dump as one develops .ksy.",
@@ -197,7 +208,8 @@
                 "owner": "codilime",
                 "repo": "veles",
                 "stars": 1239
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -212,7 +224,8 @@
                 "owner": "Dvd848",
                 "repo": "pytai",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "Vector35",
                 "repo": "kaitai",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             }
           ],
           "description": "These visualizers / hex editors allow only fixed set of precompiled file format specifications to be used.",
@@ -253,7 +267,8 @@
             "owner": "kaitai-io",
             "repo": "ksylint",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -268,7 +283,8 @@
             "owner": "tins2831",
             "repo": "ksy-dl",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "children": [
@@ -283,11 +299,12 @@
                     "archived": false,
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-27T17:28:02Z",
+                    "last_commit": "2026-08-28T17:55:25Z",
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21676
-                  }
+                    "stars": 21678
+                  },
+                  "first_seen": "2026-08-28T18:57:44.212Z"
                 },
                 {
                   "node_type": "item",
@@ -302,7 +319,8 @@
                     "owner": "anonymousatc",
                     "repo": "kaitai-ksc",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:57:44.212Z"
                 }
               ],
               "description": null,
@@ -333,7 +351,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -348,7 +367,8 @@
             "owner": "cugu",
             "repo": "apfs.ksy",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -363,7 +383,8 @@
             "owner": "kaitai-io",
             "repo": "edid.ksy",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -378,7 +399,8 @@
             "owner": "kaitai-io",
             "repo": "java_bytecode.ksy",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -393,7 +415,8 @@
             "owner": "kaitai-io",
             "repo": "dicom.ksy",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -408,7 +431,8 @@
             "owner": "kaitai-io",
             "repo": "windows_resource_file.ksy",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         }
       ],
       "title": "Formats"
@@ -429,7 +453,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_python_runtime",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -444,7 +469,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_cpp_stl_runtime",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -459,7 +485,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_go_runtime",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -474,7 +501,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_rust_runtime",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -489,7 +517,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_csharp_runtime",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -504,7 +533,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_java_runtime",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -524,7 +554,8 @@
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_loader",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -539,7 +570,8 @@
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_examples",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             }
           ],
           "repo_info": {
@@ -550,7 +582,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_javascript_runtime",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -565,7 +598,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_lua_runtime",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -580,7 +614,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_ruby_runtime",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_php_runtime",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -610,7 +646,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_nim_runtime",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -625,7 +662,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_swift_runtime",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -640,7 +678,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_perl_runtime",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         }
       ],
       "title": "Runtimes"
@@ -661,7 +700,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_tests",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -676,7 +716,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_struct_benchmarks",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -691,7 +732,8 @@
             "owner": "kaitai-io",
             "repo": "ci_targets",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -706,7 +748,8 @@
             "owner": "kaitai-io",
             "repo": "ci_artifacts",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         }
       ],
       "title": "Testing"
@@ -727,7 +770,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_fs",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -742,7 +786,8 @@
             "owner": "kaitai-io",
             "repo": "kaitai_compress",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         }
       ],
       "title": "Misc"
@@ -763,7 +808,8 @@
             "owner": "construct",
             "repo": "construct",
             "stars": 1014
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -778,7 +824,8 @@
             "owner": "dmendel",
             "repo": "bindata",
             "stars": 653
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -793,7 +840,8 @@
             "owner": "j3pic",
             "repo": "lisp-binary",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -808,7 +856,8 @@
             "owner": "renyxa",
             "repo": "re-lab",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -823,7 +872,8 @@
             "owner": "fox-it",
             "repo": "dissect.cstruct",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -838,7 +888,8 @@
             "owner": "0xdabbad00",
             "repo": "icebuddha",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -853,7 +904,8 @@
             "owner": "Michael-K-GH",
             "repo": "BeeSchema",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -868,7 +920,8 @@
             "owner": "frodef",
             "repo": "binary-types",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -883,7 +936,8 @@
             "owner": "vivisect",
             "repo": "vstruct2",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -898,7 +952,8 @@
             "owner": "padsproj",
             "repo": "pads",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "node_type": "item",
@@ -913,7 +968,8 @@
             "owner": "libyal",
             "repo": "dtfabric",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T18:57:44.212Z"
         },
         {
           "children": [
@@ -930,7 +986,8 @@
                 "owner": "evanmiller",
                 "repo": "hecate",
                 "stars": 675
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -945,7 +1002,8 @@
                 "owner": "sealmove",
                 "repo": "hexalepis",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             }
           ],
           "description": null,
@@ -963,11 +1021,12 @@
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-27T12:23:51Z",
+                "last_commit": "2026-08-28T17:53:11Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9786
-              }
+                "stars": 9791
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -982,7 +1041,8 @@
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
                 "stars": 3137
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -996,8 +1056,9 @@
                 "last_commit": "2026-08-19T11:14:25Z",
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2550
-              }
+                "stars": 2553
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -1012,7 +1073,8 @@
                 "owner": "construct",
                 "repo": "construct",
                 "stars": 1014
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             },
             {
               "node_type": "item",
@@ -1027,7 +1089,8 @@
                 "owner": "mac4n6",
                 "repo": "HFSPlus_Resources",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T18:57:44.212Z"
             }
           ],
           "description": null,
@@ -1039,7 +1102,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:52:10.272Z",
+    "last_updated": "2026-08-28T18:57:44.212Z",
     "original_repository_info": {
       "archived": false,
       "id": 147081663,
