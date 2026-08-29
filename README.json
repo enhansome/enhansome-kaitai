@@ -436,7 +436,7 @@
                     "open_issues": 855,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21679,
+                    "stars": 21680,
                     "topics": [
                       "aot",
                       "compiler",
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-29T03:03:31Z",
+                "last_commit": "2026-08-29T10:35:40Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9792,
+                "stars": 9793,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:53:20.040Z",
+    "last_updated": "2026-08-29T12:48:47.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
