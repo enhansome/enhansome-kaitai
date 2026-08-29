@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb / .rs",
+            "homepage": "https://kaitai.io",
             "id": 52196052,
             "language": "Scala",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-04T13:54:40Z",
+            "open_issues": 74,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_compiler",
-            "stars": 656
+            "stars": 656,
+            "topics": [
+              "compiler",
+              "kaitai-struct",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -26,12 +35,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parser generator for binary data",
+            "homepage": null,
             "id": 222257494,
             "language": "Nim",
+            "license": "MIT",
             "last_commit": "2020-11-18T03:45:45Z",
+            "open_issues": 0,
             "owner": "sealmove",
             "repo": "nimitai",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "forensics",
+              "infrastructure",
+              "parser",
+              "reverse-engineering",
+              "stalled-project"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -42,12 +62,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "kaitaigo is a compiler and runtime to create Go parsers from Kaitai Struct files",
+            "homepage": null,
             "id": 206424312,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-20T10:04:46Z",
+            "open_issues": 1,
             "owner": "cugu",
             "repo": "kaitaigo",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         }
@@ -66,12 +91,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-platform GUI for bit-based analysis, processing, and visualization",
+                "homepage": "https://mahlet-inc.github.io",
                 "id": 238995181,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-16T14:32:27Z",
+                "open_issues": 33,
                 "owner": "Mahlet-Inc",
                 "repo": "hobbits",
-                "stars": 749
+                "stars": 749,
+                "topics": [
+                  "binary-classification",
+                  "cpp",
+                  "hexeditor",
+                  "python",
+                  "qt",
+                  "reverse-engineering",
+                  "software-defined-radio",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -82,12 +121,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kaitai Struct: visualizer and hex viewer tool",
+                "homepage": "https://rubygems.org/gems/kaitai-struct-visualizer",
                 "id": 56528412,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-21T16:27:06Z",
+                "open_issues": 18,
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_visualizer",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "console",
+                  "hex-viewer",
+                  "kaitai-struct",
+                  "ruby",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -103,12 +153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 94814536,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2017-07-12T22:27:18Z",
+                    "open_issues": 0,
                     "owner": "kaitai-io",
                     "repo": "webide-usercontent.kaitai.io",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:57:44.212Z"
                 },
@@ -119,24 +174,39 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Docs repo for the WebIDE (bigger files & stuff)",
+                    "homepage": null,
                     "id": 96042805,
                     "language": null,
+                    "license": "GPL-3.0",
                     "last_commit": "2017-09-20T19:28:15Z",
+                    "open_issues": 0,
                     "owner": "kaitai-io",
                     "repo": "kaitai_struct_webide_docs",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:57:44.212Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Online editor / visualizer for Kaitai Struct .ksy files",
+                "homepage": "https://ide.kaitai.io",
                 "id": 72311002,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-01T19:20:17Z",
+                "open_issues": 94,
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_webide",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "hex-viewer",
+                  "ide",
+                  "kaitai-struct",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -147,12 +217,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kaitai Struct: visualizer and hex viewer tool GUI in Java",
+                "homepage": null,
                 "id": 71593871,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-01T07:09:50Z",
+                "open_issues": 8,
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_gui",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "hex-viewer",
+                  "java",
+                  "kaitai-struct",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -163,12 +243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a hex editor that is meant to be as flexible as possible. Use it in other webapps! (once it's done/built)",
+                "homepage": null,
                 "id": 188671243,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-08-03T06:40:54Z",
+                "open_issues": 2,
                 "owner": "fudgepop01",
                 "repo": "fudgedit",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -179,12 +264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unstable development version deployment of Kaitai Web IDE using GitHub pages",
+                "homepage": null,
                 "id": 84823586,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-06-25T20:52:19Z",
+                "open_issues": 0,
                 "owner": "kaitai-io",
                 "repo": "ide-devel-kaitai-io.github.io",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             }
@@ -202,12 +292,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Binary data analysis and visualization tool",
+                "homepage": "https://veles.io",
                 "id": 78717776,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-16T09:07:16Z",
+                "open_issues": 56,
                 "owner": "codilime",
                 "repo": "veles",
-                "stars": 1239
+                "stars": 1239,
+                "topics": [
+                  "cpp",
+                  "hexeditor",
+                  "python",
+                  "qt",
+                  "reverse-engineering",
+                  "shaders",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -218,12 +321,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kaitai Struct: Visualizer and Hex Viewer GUI in Python",
+                "homepage": null,
                 "id": 394894342,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-24T13:47:57Z",
+                "open_issues": 2,
                 "owner": "Dvd848",
                 "repo": "pytai",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "hex-viewer",
+                  "hex-visualizer",
+                  "kaitai",
+                  "kaitai-struct"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -234,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UI plugin integrating Kaitai Struct (kaitai.io) in Binja",
+                "homepage": null,
                 "id": 211350672,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-28T18:57:59Z",
+                "open_issues": 2,
                 "owner": "Vector35",
                 "repo": "kaitai",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             }
@@ -261,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A linter for ksy files.",
+            "homepage": "http://kaitai.io",
             "id": 211564929,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-15T15:05:25Z",
+            "open_issues": 1,
             "owner": "kaitai-io",
             "repo": "ksylint",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -277,12 +400,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Downloads .ksy files and their dependencies straight from the official kaitai-struct format gallery.",
+            "homepage": null,
             "id": 418758005,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-01T02:47:50Z",
+            "open_issues": 6,
             "owner": "tins2831",
             "repo": "ksy-dl",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -297,12 +427,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+                    "homepage": "https://www.graalvm.org",
                     "id": 49662222,
                     "language": "Java",
-                    "last_commit": "2026-08-28T17:55:25Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T22:26:47Z",
+                    "open_issues": 855,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21678
+                    "stars": 21679,
+                    "topics": [
+                      "aot",
+                      "compiler",
+                      "graalvm",
+                      "java"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:57:44.212Z"
                 },
@@ -313,12 +453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 147114543,
                     "language": "Dockerfile",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-09-03T19:25:35Z",
+                    "open_issues": 5,
                     "owner": "anonymousatc",
                     "repo": "kaitai-ksc",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:57:44.212Z"
                 }
@@ -345,12 +490,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: library of binary file formats (.ksy)",
+            "homepage": "http://formats.kaitai.io",
             "id": 54845016,
             "language": "Kaitai Struct",
+            "license": null,
             "last_commit": "2026-08-27T13:15:24Z",
+            "open_issues": 405,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
-            "stars": 794
+            "stars": 794,
+            "topics": [
+              "file-format",
+              "kaitai-struct",
+              "protocol-parser"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -361,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "APFS filesystem format for Kaitai Struct",
+            "homepage": null,
             "id": 94515358,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-04-20T10:06:21Z",
+            "open_issues": 3,
             "owner": "cugu",
             "repo": "apfs.ksy",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -377,12 +536,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct",
+            "homepage": null,
             "id": 96756420,
             "language": "Kaitai Struct",
+            "license": "CC0-1.0",
             "last_commit": "2021-07-11T09:56:28Z",
+            "open_issues": 0,
             "owner": "kaitai-io",
             "repo": "edid.ksy",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "edid",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -393,12 +560,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java bytecode spec for Kaitai Struct",
+            "homepage": null,
             "id": 90160876,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-11-23T10:34:07Z",
+            "open_issues": 0,
             "owner": "kaitai-io",
             "repo": "java_bytecode.ksy",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "java-bytecode",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -409,12 +584,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DICOM (Digital Imaging and Communications in Medicine) file format spec for Kaitai Struct",
+            "homepage": null,
             "id": 92436587,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-10-09T10:52:08Z",
+            "open_issues": 0,
             "owner": "kaitai-io",
             "repo": "dicom.ksy",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "dicom",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -425,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows resource file spec for Kaitai Struct",
+            "homepage": null,
             "id": 95110227,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2019-10-09T11:03:49Z",
+            "open_issues": 0,
             "owner": "kaitai-io",
             "repo": "windows_resource_file.ksy",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         }
@@ -447,12 +635,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Python",
+            "homepage": "https://pypi.org/project/kaitaistruct/",
             "id": 52151902,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-08T01:22:42Z",
+            "open_issues": 14,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_python_runtime",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "kaitai-struct",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -463,12 +659,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for C++ using STL",
+            "homepage": null,
             "id": 54116980,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-22T14:24:54Z",
+            "open_issues": 17,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_cpp_stl_runtime",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "c-plus-plus",
+              "cpp",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -479,12 +684,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Go",
+            "homepage": null,
             "id": 87614942,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-14T17:52:01Z",
+            "open_issues": 5,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_go_runtime",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "golang",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -495,12 +708,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Rust",
+            "homepage": null,
             "id": 65820701,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-11-14T11:08:17Z",
+            "open_issues": 6,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_rust_runtime",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "kaitai-struct",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -511,12 +732,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for C#/.NET",
+            "homepage": "https://www.nuget.org/packages/KaitaiStruct.Runtime.CSharp",
             "id": 63403831,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-17T12:53:54Z",
+            "open_issues": 4,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_csharp_runtime",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -527,12 +757,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Java",
+            "homepage": null,
             "id": 52151623,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-08T12:42:29Z",
+            "open_issues": 15,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_java_runtime",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "java",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -548,12 +786,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Webpack loader for kaitai-struct .ksy definitions",
+                "homepage": null,
                 "id": 97975199,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-08T06:01:45Z",
+                "open_issues": 13,
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_loader",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "binary",
+                  "kaitai-struct",
+                  "webpack-loader",
+                  "webpack2"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -564,24 +812,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 99739317,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-08-09T01:01:42Z",
+                "open_issues": 0,
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_examples",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for JavaScript",
+            "homepage": "https://www.npmjs.com/package/kaitai-struct",
             "id": 53526502,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T09:18:09Z",
+            "open_issues": 7,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_javascript_runtime",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "javascript",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -592,12 +853,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Lua",
+            "homepage": null,
             "id": 99325858,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-02T20:25:27Z",
+            "open_issues": 12,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_lua_runtime",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "kaitai-struct",
+              "lua"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -608,12 +877,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Ruby",
+            "homepage": "https://rubygems.org/gems/kaitai-struct",
             "id": 52152968,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-04T11:43:24Z",
+            "open_issues": 2,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_ruby_runtime",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "kaitai-struct",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -624,12 +901,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for PHP",
+            "homepage": null,
             "id": 65608459,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-04-07T10:43:15Z",
+            "open_issues": 1,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_php_runtime",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "kaitai-struct",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -640,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Nim",
+            "homepage": null,
             "id": 205183109,
             "language": "Nim",
+            "license": "MIT",
             "last_commit": "2025-12-07T20:29:34Z",
+            "open_issues": 0,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_nim_runtime",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -656,12 +946,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Swift",
+            "homepage": null,
             "id": 56913079,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-10-03T06:39:50Z",
+            "open_issues": 1,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_swift_runtime",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "kaitai-struct",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -672,12 +970,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: runtime for Perl",
+            "homepage": null,
             "id": 65691719,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2025-11-14T11:06:12Z",
+            "open_issues": 1,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_perl_runtime",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "kaitai-struct",
+              "perl"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         }
@@ -694,12 +1000,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: tests in all supported programming languages",
+            "homepage": null,
             "id": 52155797,
             "language": "Kaitai Struct",
+            "license": "MIT",
             "last_commit": "2026-05-04T14:18:05Z",
+            "open_issues": 42,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_tests",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "kaitai-struct",
+              "tests"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -710,12 +1024,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: benchmarking suite",
+            "homepage": null,
             "id": 69572721,
             "language": "Kaitai Struct",
+            "license": "MIT",
             "last_commit": "2023-08-04T09:18:25Z",
+            "open_issues": 0,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_benchmarks",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "benchmark",
+              "benchmarking-suite",
+              "kaitai-struct"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -726,12 +1049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct CI: test .ksy files compiled into target languages",
+            "homepage": null,
             "id": 87530818,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-30T21:50:14Z",
+            "open_issues": 1,
             "owner": "kaitai-io",
             "repo": "ci_targets",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -742,12 +1070,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct CI: test run results",
+            "homepage": null,
             "id": 87831411,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-27T09:18:39Z",
+            "open_issues": 0,
             "owner": "kaitai-io",
             "repo": "ci_artifacts",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         }
@@ -764,12 +1097,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KaitaiFS: mount any filesystem specified with a .ksy as a real file system",
+            "homepage": "http://kaitai.io/",
             "id": 92182074,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-13T13:56:12Z",
+            "open_issues": 7,
             "owner": "kaitai-io",
             "repo": "kaitai_fs",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "filesystem",
+              "fuse",
+              "kaitai-struct",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -780,12 +1123,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kaitai Struct: data compression algorithms processing routines",
+            "homepage": null,
             "id": 141039688,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-09-04T07:38:03Z",
+            "open_issues": 10,
             "owner": "kaitai-io",
             "repo": "kaitai_compress",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "kaitai-struct",
+              "kaitai-struct-processing",
+              "python",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         }
@@ -802,12 +1155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Construct: Declarative data structures for python that allow symmetric parsing and building",
+            "homepage": "http://construct.readthedocs.org",
             "id": 4218694,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-22T05:09:12Z",
+            "open_issues": 36,
             "owner": "construct",
             "repo": "construct",
-            "stars": 1014
+            "stars": 1014,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -818,12 +1176,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BinData - Reading and Writing Binary Data in Ruby",
+            "homepage": null,
             "id": 10114632,
             "language": "Ruby",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-04T14:29:53Z",
+            "open_issues": 0,
             "owner": "dmendel",
             "repo": "bindata",
-            "stars": 653
+            "stars": 653,
+            "topics": [
+              "binary-analysis",
+              "declarative-language",
+              "file-format",
+              "reverse-engineering",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -834,12 +1203,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to easily read and write complex binary formats.",
+            "homepage": null,
             "id": 70394092,
             "language": "Common Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-09T05:41:05Z",
+            "open_issues": 7,
             "owner": "j3pic",
             "repo": "lisp-binary",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -850,12 +1224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RE-lab is a joint effort of gimp.ru team and developers of various open source projects to do clean-room reverse engineering of various proprietary file formats useful for the mankind.",
+            "homepage": null,
             "id": 35455291,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-19T12:14:35Z",
+            "open_issues": 2,
             "owner": "renyxa",
             "repo": "re-lab",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -866,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Dissect module implementing a parser for C-like structures.",
+            "homepage": "https://docs.dissect.tools/en/latest/projects/dissect.cstruct/index.html",
             "id": 515984737,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T08:41:57Z",
+            "open_issues": 15,
             "owner": "fox-it",
             "repo": "dissect.cstruct",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -882,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic binary file parser",
+            "homepage": null,
             "id": 5056985,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-11-14T14:30:01Z",
+            "open_issues": 22,
             "owner": "0xdabbad00",
             "repo": "icebuddha",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -898,12 +1287,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Binary Schema Library for C#",
+            "homepage": null,
             "id": 51453036,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-06-23T12:58:18Z",
+            "open_issues": 14,
             "owner": "Michael-K-GH",
             "repo": "BeeSchema",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "binary",
+              "csharp",
+              "deserialisation",
+              "deserialization",
+              "schema",
+              "serialisation",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -914,12 +1316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read and write binary records for Common Lisp",
+            "homepage": null,
             "id": 753180,
             "language": "Common Lisp",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-08T02:18:21Z",
+            "open_issues": 5,
             "owner": "frodef",
             "repo": "binary-types",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -930,12 +1337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vivisect Structure Definition/Parsing Library",
+            "homepage": null,
             "id": 38546887,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-07-25T20:57:19Z",
+            "open_issues": 1,
             "owner": "vivisect",
             "repo": "vstruct2",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -946,12 +1358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pads format description language",
+            "homepage": null,
             "id": 30369749,
             "language": "C",
+            "license": null,
             "last_commit": "2015-11-19T23:06:18Z",
+            "open_issues": 1,
             "owner": "padsproj",
             "repo": "pads",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -962,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for data type and structure management",
+            "homepage": null,
             "id": 69148118,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-09T14:51:18Z",
+            "open_issues": 17,
             "owner": "libyal",
             "repo": "dtfabric",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
         },
@@ -980,12 +1402,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥 The Hex Editor From Hell! 🔥",
+                "homepage": null,
                 "id": 34143189,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-05-03T00:34:32Z",
+                "open_issues": 3,
                 "owner": "evanmiller",
                 "repo": "hecate",
-                "stars": 675
+                "stars": 675,
+                "topics": [
+                  "hex-editor"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -996,12 +1425,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hex editor made efficient",
+                "homepage": null,
                 "id": 190956609,
                 "language": "Nim",
+                "license": "MIT",
                 "last_commit": "2020-08-22T19:37:37Z",
+                "open_issues": 0,
                 "owner": "sealmove",
                 "repo": "hexalepis",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "hex-editor",
+                  "infrastructure",
+                  "stalled-project"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             }
@@ -1019,12 +1457,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. You're welcome to submit pull requests there.",
+                "homepage": "https://www.wireshark.org",
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-28T17:53:11Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-29T03:03:31Z",
+                "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9791
+                "stars": 9792,
+                "topics": [
+                  "packet-capture",
+                  "stratoshark",
+                  "tshark",
+                  "wireshark"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -1035,12 +1483,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Sleuth Kit® (TSK) is a library and collection of command line digital forensics tools that allow you to investigate volume and file system data. The library can be incorporated into larger digital forensics tools and the command line tools can be directly used to find evidence. ",
+                "homepage": "http://www.sleuthkit.org/sleuthkit/",
                 "id": 2562873,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-19T03:11:29Z",
+                "open_issues": 479,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3137
+                "stars": 3137,
+                "topics": [
+                  "forensics",
+                  "incident-response",
+                  "ntfs",
+                  "sleuthkit",
+                  "tct"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -1051,12 +1510,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TestDisk & PhotoRec",
+                "homepage": "https://www.cgsecurity.org/",
                 "id": 37376198,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-19T11:14:25Z",
+                "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2553
+                "stars": 2555,
+                "topics": [
+                  "datacarving",
+                  "datarecovery",
+                  "disk",
+                  "filesystem",
+                  "photorec",
+                  "testdisk"
+                ]
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -1067,12 +1538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Construct: Declarative data structures for python that allow symmetric parsing and building",
+                "homepage": "http://construct.readthedocs.org",
                 "id": 4218694,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-04-22T05:09:12Z",
+                "open_issues": 36,
                 "owner": "construct",
                 "repo": "construct",
-                "stars": 1014
+                "stars": 1014,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             },
@@ -1083,12 +1559,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources for HFS+ Forensics",
+                "homepage": null,
                 "id": 46216777,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-11-15T12:43:25Z",
+                "open_issues": 0,
                 "owner": "mac4n6",
                 "repo": "HFSPlus_Resources",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
             }
@@ -1102,15 +1583,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:57:44.212Z",
+    "last_updated": "2026-08-29T04:53:20.040Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Kaitai Struct tools and resources",
+      "homepage": "http://kaitai.io/",
       "id": 147081663,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-10-10T21:37:32Z",
+      "open_issues": 3,
       "owner": "kaitai-io",
       "repo": "awesome-kaitai",
-      "stars": 221
+      "stars": 221,
+      "topics": [
+        "awesome-list",
+        "kaitai-struct"
+      ]
     },
     "original_repository_sha": "f962dd1a9f75cd20759e4e6dbe98a8365b5405a6",
     "enhanced_repository": "enhansome/enhansome-kaitai",
