@@ -33,7 +33,7 @@ These visualizers / hex editors allow only fixed set of precompiled file
 format specifications to be used.
 
 * Veles ([Homepage](https://codisec.com/veles/), [Repository](https://github.com/codilime/veles) ⚠️ Archived)
-* pytai ([Repository](https://github.com/Dvd848/pytai) ⭐ 133 | 🐛 2 | 🌐 Python | 📅 2025-09-24)
+* pytai ([Repository](https://github.com/Dvd848/pytai) ⭐ 132 | 🐛 2 | 🌐 Python | 📅 2025-09-24)
 * Kaitai Struct plugin for Binary Ninja ([Repository](https://github.com/Vector35/kaitai) ⭐ 46 | 🐛 2 | 🌐 Python | 📅 2026-07-28)
 
 ## Tools
@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,680 | 🐛 857 | 🌐 Java | 📅 2026-08-29, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,637 | 🐛 73 | 🌐 Python | 📅 2026-08-26, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,678 | 🐛 855 | 🌐 Java | 📅 2026-08-31, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,637 | 🐛 71 | 🌐 Python | 📅 2026-08-31, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -119,7 +119,7 @@ format specifications to be used.
 
 ## Similar projects / tools
 
-* [construct](https://github.com/construct/construct) ⭐ 1,014 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Python library to create declarative parsers
+* [construct](https://github.com/construct/construct) ⭐ 1,015 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Python library to create declarative parsers
 * [bindata](https://github.com/dmendel/bindata) ⭐ 653 | 🐛 8 | 🌐 Ruby | 📅 2026-08-04 - Binary data parsing for Ruby
 * <https://github.com/j3pic/lisp-binary> ⭐ 102 | 🐛 7 | 🌐 Common Lisp | 📅 2026-07-09 - A library to easily read and write complex binary formats (Common Lisp)
 * <https://github.com/renyxa/re-lab/tree/master/oletoy> ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2021-09-19
@@ -145,10 +145,10 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,796 | 🐛 2 | 🌐 C | 📅 2026-08-30 - Parsers for Wireshark
-* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,137 | 🐛 479 | 🌐 C | 📅 2026-08-19 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,557 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
-* [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,014 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,799 | 🐛 2 | 🌐 C | 📅 2026-08-31 - Parsers for Wireshark
+* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,138 | 🐛 479 | 🌐 C | 📅 2026-08-19 - Grammars for different file systems
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,559 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
+* [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,015 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
 * [iBored Templates](https://apps.tempel.org/iBored/#:~:text=fix%20them%20ASAP.%29-,Templates,-Some%20data%20is) - Templates are packed inside the .app
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
