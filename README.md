@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,682 | 🐛 851 | 🌐 Java | 📅 2026-09-02, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,637 | 🐛 70 | 🌐 Python | 📅 2026-09-02, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,681 | 🐛 851 | 🌐 Java | 📅 2026-09-03, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,638 | 🐛 69 | 🌐 Python | 📅 2026-09-02, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -134,7 +134,7 @@ format specifications to be used.
 
 ### Hex Editors
 
-* [hecate](https://github.com/evanmiller/hecate) ⭐ 675 | 🐛 3 | 🌐 Go | 📅 2022-05-03 - Terminal hex editor
+* [hecate](https://github.com/evanmiller/hecate) ⭐ 676 | 🐛 3 | 🌐 Go | 📅 2022-05-03 - Terminal hex editor
 * [hexalepis](https://github.com/sealmove/hexalepis) ⭐ 7 | 🐛 0 | 🌐 Nim | 📅 2020-08-22 - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
 * [Hexinator](https://hexinator.com/) - Windows Version of Synalyze It!
 * [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
@@ -145,9 +145,9 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,807 | 🐛 2 | 🌐 C | 📅 2026-09-02 - Parsers for Wireshark
-* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,140 | 🐛 479 | 🌐 C | 📅 2026-08-19 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,565 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,813 | 🐛 2 | 🌐 C | 📅 2026-09-03 - Parsers for Wireshark
+* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,141 | 🐛 479 | 🌐 C | 📅 2026-08-19 - Grammars for different file systems
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,568 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
 * [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,015 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
