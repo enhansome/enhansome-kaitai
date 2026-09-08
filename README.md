@@ -2,7 +2,7 @@
 
 A curated list of Kaitai Struct tools and resources
 
-* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,672 | 🐛 529 | 🌐 Shell | 📅 2026-08-31, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,672 | 🐛 529 | 🌐 Shell | 📅 2026-08-31)
+* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,673 | 🐛 529 | 🌐 Shell | 📅 2026-08-31, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,673 | 🐛 529 | 🌐 Shell | 📅 2026-08-31)
 
 ## Compiler
 
@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,688 | 🐛 848 | 🌐 Java | 📅 2026-09-07, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,641 | 🐛 67 | 🌐 Python | 📅 2026-09-07, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,690 | 🐛 850 | 🌐 Java | 📅 2026-09-08, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,641 | 🐛 67 | 🌐 Python | 📅 2026-09-08, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -59,7 +59,7 @@ format specifications to be used.
 
 ## Formats
 
-* [Kaitai Struct library of binary file formats](https://formats.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_formats) ⭐ 794 | 🐛 407 | 🌐 Kaitai Struct | 📅 2026-09-05, [Github Pages](https://github.com/kaitai-io/formats-kaitai-io.github.io) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2026-09-04)
+* [Kaitai Struct library of binary file formats](https://formats.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_formats) ⭐ 794 | 🐛 405 | 🌐 Kaitai Struct | 📅 2026-09-07, [Github Pages](https://github.com/kaitai-io/formats-kaitai-io.github.io) ⭐ 8 | 🐛 0 | 🌐 HTML | 📅 2026-09-07)
 * APFS (apple file system) format ([Repository](https://github.com/cugu/apfs.ksy) ⚠️ Archived, [Issues](https://github.com/cugu/apfs.ksy/issues) ⚠️ Archived)
 * EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct ([Repository](https://github.com/kaitai-io/edid.ksy) ⭐ 8 | 🐛 0 | 🌐 Kaitai Struct | 📅 2021-07-11)
 * Java bytecode spec for Kaitai Struct ([Repository](https://github.com/kaitai-io/java_bytecode.ksy) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2020-11-23, [Issues](https://github.com/kaitai-io/java_bytecode.ksy/issues) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2020-11-23)
@@ -119,7 +119,7 @@ format specifications to be used.
 
 ## Similar projects / tools
 
-* [construct](https://github.com/construct/construct) ⭐ 1,015 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Python library to create declarative parsers
+* [construct](https://github.com/construct/construct) ⭐ 1,016 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Python library to create declarative parsers
 * [bindata](https://github.com/dmendel/bindata) ⭐ 653 | 🐛 9 | 🌐 Ruby | 📅 2026-08-04 - Binary data parsing for Ruby
 * <https://github.com/j3pic/lisp-binary> ⭐ 103 | 🐛 7 | 🌐 Common Lisp | 📅 2026-07-09 - A library to easily read and write complex binary formats (Common Lisp)
 * <https://github.com/renyxa/re-lab/tree/master/oletoy> ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2021-09-19
@@ -145,10 +145,10 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,839 | 🐛 2 | 🌐 C | 📅 2026-09-07 - Parsers for Wireshark
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,842 | 🐛 2 | 🌐 C | 📅 2026-09-08 - Parsers for Wireshark
 * [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,145 | 🐛 480 | 🌐 C | 📅 2026-08-19 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,577 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
-* [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,015 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,581 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
+* [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,016 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
 * [iBored Templates](https://apps.tempel.org/iBored/#:~:text=fix%20them%20ASAP.%29-,Templates,-Some%20data%20is) - Templates are packed inside the .app
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
