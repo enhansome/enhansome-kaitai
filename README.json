@@ -432,11 +432,11 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-08T09:37:14Z",
-                    "open_issues": 850,
+                    "last_commit": "2026-09-09T10:36:15Z",
+                    "open_issues": 855,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21690,
+                    "stars": 21692,
                     "topics": [
                       "aot",
                       "compiler",
@@ -1164,7 +1164,7 @@
             "open_issues": 36,
             "owner": "construct",
             "repo": "construct",
-            "stars": 1016,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-08T09:53:19Z",
+                "last_commit": "2026-09-09T09:01:13Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9842,
+                "stars": 9849,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1489,7 +1489,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-08-19T03:11:29Z",
-                "open_issues": 480,
+                "open_issues": 481,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
                 "stars": 3145,
@@ -1547,7 +1547,7 @@
                 "open_issues": 36,
                 "owner": "construct",
                 "repo": "construct",
-                "stars": 1016,
+                "stars": 1017,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:39:45.474Z",
+    "last_updated": "2026-09-09T11:45:48.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
