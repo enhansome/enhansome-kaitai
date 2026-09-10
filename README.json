@@ -432,11 +432,11 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T10:36:15Z",
-                    "open_issues": 855,
+                    "last_commit": "2026-09-10T11:06:35Z",
+                    "open_issues": 851,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21692,
+                    "stars": 21693,
                     "topics": [
                       "aot",
                       "compiler",
@@ -664,8 +664,8 @@
             "id": 54116980,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-22T14:24:54Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-10T06:23:49Z",
+            "open_issues": 18,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_cpp_stl_runtime",
             "stars": 92,
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-09T09:01:13Z",
+                "last_commit": "2026-09-10T10:57:05Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9849,
+                "stars": 9854,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1519,7 +1519,7 @@
                 "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2581,
+                "stars": 2579,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:45:48.471Z",
+    "last_updated": "2026-09-10T11:43:31.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
