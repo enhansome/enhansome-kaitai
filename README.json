@@ -432,11 +432,11 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-10T11:06:35Z",
-                    "open_issues": 851,
+                    "last_commit": "2026-09-11T11:40:58Z",
+                    "open_issues": 852,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21693,
+                    "stars": 21698,
                     "topics": [
                       "aot",
                       "compiler",
@@ -496,7 +496,7 @@
             "language": "Kaitai Struct",
             "license": null,
             "last_commit": "2026-09-07T18:59:35Z",
-            "open_issues": 405,
+            "open_issues": 406,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
             "stars": 794,
@@ -1254,7 +1254,7 @@
             "open_issues": 15,
             "owner": "fox-it",
             "repo": "dissect.cstruct",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T10:57:05Z",
+                "last_commit": "2026-09-11T09:49:08Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9854,
+                "stars": 9858,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:43:31.356Z",
+    "last_updated": "2026-09-11T11:44:08.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
