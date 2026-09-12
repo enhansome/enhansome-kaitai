@@ -100,7 +100,7 @@
                 "open_issues": 33,
                 "owner": "Mahlet-Inc",
                 "repo": "hobbits",
-                "stars": 749,
+                "stars": 750,
                 "topics": [
                   "binary-classification",
                   "cpp",
@@ -432,11 +432,11 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T11:40:58Z",
-                    "open_issues": 852,
+                    "last_commit": "2026-09-12T05:47:30Z",
+                    "open_issues": 848,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21698,
+                    "stars": 21699,
                     "topics": [
                       "aot",
                       "compiler",
@@ -1254,7 +1254,7 @@
             "open_issues": 15,
             "owner": "fox-it",
             "repo": "dissect.cstruct",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-11T09:49:08Z",
+                "last_commit": "2026-09-12T11:03:24Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9858,
+                "stars": 9863,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1489,10 +1489,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-08-19T03:11:29Z",
-                "open_issues": 481,
+                "open_issues": 483,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3145,
+                "stars": 3146,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T11:44:08.751Z",
+    "last_updated": "2026-09-12T11:11:05.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
