@@ -432,8 +432,8 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-18T06:16:32Z",
-                    "open_issues": 849,
+                    "last_commit": "2026-09-18T20:56:23Z",
+                    "open_issues": 848,
                     "owner": "oracle",
                     "repo": "graal",
                     "stars": 21703,
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-18T09:50:23Z",
+                "last_commit": "2026-09-19T06:41:37Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9884,
+                "stars": 9893,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1492,7 +1492,7 @@
                 "open_issues": 481,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3150,
+                "stars": 3151,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -1519,7 +1519,7 @@
                 "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2592,
+                "stars": 2594,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:41:25.427Z",
+    "last_updated": "2026-09-19T11:24:20.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
