@@ -6,7 +6,7 @@ A curated list of Kaitai Struct tools and resources
 
 ## Compiler
 
-* Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler) ⭐ 660 | 🐛 74 | 🌐 Scala | 📅 2026-05-04, [Releases](https://github.com/kaitai-io/kaitai_struct_compiler/releases) ⭐ 660 | 🐛 74 | 🌐 Scala | 📅 2026-05-04)
+* Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler) ⭐ 660 | 🐛 75 | 🌐 Scala | 📅 2026-05-04, [Releases](https://github.com/kaitai-io/kaitai_struct_compiler/releases) ⭐ 660 | 🐛 75 | 🌐 Scala | 📅 2026-05-04)
 * [nimitai](https://github.com/sealmove/nimitai) ⭐ 19 | 🐛 0 | 🌐 Nim | 📅 2020-11-18: The compiler implemented as macro in Nimlang (.ksy => Nim AST)
 * [kaitaigo](https://github.com/cugu/kaitaigo) ⚠️ Archived: alternative compiler to translate .ksy => .go, written in Golang
 
@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,703 | 🐛 848 | 🌐 Java | 📅 2026-09-18, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,643 | 🐛 65 | 🌐 Python | 📅 2026-09-18, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,705 | 🐛 848 | 🌐 Java | 📅 2026-09-18, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,644 | 🐛 66 | 🌐 Python | 📅 2026-09-18, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -68,7 +68,7 @@ format specifications to be used.
 
 ## Help, Documentation & Community
 
-* [Kaitai Struct Documentation](https://doc.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_doc) ⭐ 19 | 🐛 9 | 🌐 CSS | 📅 2026-04-25, [Github Pages](https://github.com/kaitai-io/doc-kaitai-io.github.io) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-04-25)
+* [Kaitai Struct Documentation](https://doc.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_doc) ⭐ 19 | 🐛 10 | 🌐 CSS | 📅 2026-04-25, [Github Pages](https://github.com/kaitai-io/doc-kaitai-io.github.io) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-04-25)
 * [Stackoverflow](https://stackoverflow.com/questions/tagged/kaitai-struct)
 * [Gitter channel](https://app.gitter.im/#/room/#kaitai_struct_Lobby:gitter.im)
 * [Official Twitter account](https://twitter.com/kaitai_io)
@@ -78,11 +78,11 @@ format specifications to be used.
 * Python ([Repository](https://github.com/kaitai-io/kaitai_struct_python_runtime) ⭐ 108 | 🐛 14 | 🌐 Python | 📅 2026-08-08, [Issues](https://github.com/kaitai-io/kaitai_struct_python_runtime/issues) ⭐ 108 | 🐛 14 | 🌐 Python | 📅 2026-08-08)
   * [PyPI package](https://pypi.org/project/kaitaistruct/)
 * C++ using STL ([Repository](https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime) ⭐ 93 | 🐛 18 | 🌐 C++ | 📅 2026-09-10, [Issues](https://github.com/kaitai-io/kaitai_struct_cpp_stl_runtime/issues) ⭐ 93 | 🐛 18 | 🌐 C++ | 📅 2026-09-10)
-* Go ([Repository](https://github.com/kaitai-io/kaitai_struct_go_runtime) ⭐ 89 | 🐛 5 | 🌐 Go | 📅 2025-11-14, [Issues](https://github.com/kaitai-io/kaitai_struct_go_runtime/issues) ⭐ 89 | 🐛 5 | 🌐 Go | 📅 2025-11-14)
+* Go ([Repository](https://github.com/kaitai-io/kaitai_struct_go_runtime) ⭐ 89 | 🐛 6 | 🌐 Go | 📅 2025-11-14, [Issues](https://github.com/kaitai-io/kaitai_struct_go_runtime/issues) ⭐ 89 | 🐛 6 | 🌐 Go | 📅 2025-11-14)
 * Rust ([Repository](https://github.com/kaitai-io/kaitai_struct_rust_runtime) ⭐ 78 | 🐛 6 | 🌐 Rust | 📅 2025-11-14, [Issues](https://github.com/kaitai-io/kaitai_struct_rust_runtime/issues) ⭐ 78 | 🐛 6 | 🌐 Rust | 📅 2025-11-14)
 * C#/.NET ([Repository](https://github.com/kaitai-io/kaitai_struct_csharp_runtime) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-04-17, [Issues](https://github.com/kaitai-io/kaitai_struct_csharp_runtime/issues) ⭐ 71 | 🐛 4 | 🌐 C# | 📅 2026-04-17)
   * [NuGet package](https://www.nuget.org/packages/KaitaiStruct.Runtime.CSharp/)
-* Java ([Repository](https://github.com/kaitai-io/kaitai_struct_java_runtime) ⭐ 51 | 🐛 15 | 🌐 Java | 📅 2026-09-05, [Issues](https://github.com/kaitai-io/kaitai_struct_java_runtime/issues) ⭐ 51 | 🐛 15 | 🌐 Java | 📅 2026-09-05)
+* Java ([Repository](https://github.com/kaitai-io/kaitai_struct_java_runtime) ⭐ 51 | 🐛 15 | 🌐 Java | 📅 2026-09-19, [Issues](https://github.com/kaitai-io/kaitai_struct_java_runtime/issues) ⭐ 51 | 🐛 15 | 🌐 Java | 📅 2026-09-19)
   * [Java .jar package at Maven Central](https://search.maven.org/artifact/io.kaitai/kaitai-struct-runtime)
 * JavaScript ([Repository](https://github.com/kaitai-io/kaitai_struct_javascript_runtime) ⭐ 43 | 🐛 7 | 🌐 JavaScript | 📅 2026-07-30, [Issues](https://github.com/kaitai-io/kaitai_struct_javascript_runtime/issues) ⭐ 43 | 🐛 7 | 🌐 JavaScript | 📅 2026-07-30)
   * Webpack loader for kaitai-struct .ksy definitions ([Repository](https://github.com/kaitai-io/kaitai_struct_loader) ⭐ 9 | 🐛 13 | 🌐 JavaScript | 📅 2026-04-08, [Issues](https://github.com/kaitai-io/kaitai_struct_loader/issues) ⭐ 9 | 🐛 13 | 🌐 JavaScript | 📅 2026-04-08)
@@ -98,7 +98,7 @@ format specifications to be used.
 
 ## Testing
 
-* Tests for all languages ([Repository](https://github.com/kaitai-io/kaitai_struct_tests) ⭐ 18 | 🐛 42 | 🌐 Kaitai Struct | 📅 2026-05-04)
+* Tests for all languages ([Repository](https://github.com/kaitai-io/kaitai_struct_tests) ⭐ 18 | 🐛 43 | 🌐 Kaitai Struct | 📅 2026-05-04)
 * Benchmarking suite ([Repository](https://github.com/kaitai-io/kaitai_struct_benchmarks) ⭐ 8 | 🐛 0 | 🌐 Kaitai Struct | 📅 2023-08-04)
 * Compiled test files ([Repository](https://github.com/kaitai-io/ci_targets) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-07-30)
 * [Test results](https://ci.kaitai.io/) ([Test Artifacts Repository](https://github.com/kaitai-io/ci_artifacts) ⭐ 0 | 🐛 0 | 📅 2026-07-27)
@@ -145,9 +145,9 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,893 | 🐛 2 | 🌐 C | 📅 2026-09-19 - Parsers for Wireshark
-* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,151 | 🐛 481 | 🌐 C | 📅 2026-09-17 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,594 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,898 | 🐛 2 | 🌐 C | 📅 2026-09-20 - Parsers for Wireshark
+* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,153 | 🐛 481 | 🌐 C | 📅 2026-09-17 - Grammars for different file systems
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,596 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
 * [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,018 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
