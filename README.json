@@ -19,7 +19,7 @@
             "open_issues": 75,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_compiler",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "compiler",
               "kaitai-struct",
@@ -432,8 +432,8 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-18T20:56:23Z",
-                    "open_issues": 848,
+                    "last_commit": "2026-09-21T13:08:35Z",
+                    "open_issues": 850,
                     "owner": "oracle",
                     "repo": "graal",
                     "stars": 21705,
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-20T11:06:06Z",
+                "last_commit": "2026-09-21T11:01:56Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9898,
+                "stars": 9909,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1492,7 +1492,7 @@
                 "open_issues": 481,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3153,
+                "stars": 3154,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -1519,7 +1519,7 @@
                 "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2596,
+                "stars": 2599,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T11:44:56.754Z",
+    "last_updated": "2026-09-21T13:14:15.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
