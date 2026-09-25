@@ -196,8 +196,8 @@
                 "id": 72311002,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-24T06:29:35Z",
-                "open_issues": 97,
+                "last_commit": "2026-09-24T21:21:12Z",
+                "open_issues": 96,
                 "owner": "kaitai-io",
                 "repo": "kaitai_struct_webide",
                 "stars": 319,
@@ -432,11 +432,11 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-24T12:04:41Z",
-                    "open_issues": 856,
+                    "last_commit": "2026-09-25T11:45:51Z",
+                    "open_issues": 854,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21711,
+                    "stars": 21715,
                     "topics": [
                       "aot",
                       "compiler",
@@ -495,7 +495,7 @@
             "id": 54845016,
             "language": "Kaitai Struct",
             "license": null,
-            "last_commit": "2026-09-22T15:08:57Z",
+            "last_commit": "2026-09-24T18:02:10Z",
             "open_issues": 406,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_formats",
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-23T23:29:35Z",
+                "last_commit": "2026-09-25T11:03:58Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9924,
+                "stars": 9927,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1519,7 +1519,7 @@
                 "open_issues": 92,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2603,
+                "stars": 2604,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:07:27.342Z",
+    "last_updated": "2026-09-25T12:07:05.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
@@ -1595,7 +1595,7 @@
       "open_issues": 3,
       "owner": "kaitai-io",
       "repo": "awesome-kaitai",
-      "stars": 221,
+      "stars": 222,
       "topics": [
         "awesome-list",
         "kaitai-struct"
