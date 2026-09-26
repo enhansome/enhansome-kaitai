@@ -2,11 +2,11 @@
 
 A curated list of Kaitai Struct tools and resources
 
-* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,685 | 🐛 530 | 🌐 Shell | 📅 2026-09-21, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,685 | 🐛 530 | 🌐 Shell | 📅 2026-09-21)
+* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,686 | 🐛 530 | 🌐 Shell | 📅 2026-09-21, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,686 | 🐛 530 | 🌐 Shell | 📅 2026-09-21)
 
 ## Compiler
 
-* Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler) ⭐ 662 | 🐛 75 | 🌐 Scala | 📅 2026-05-04, [Releases](https://github.com/kaitai-io/kaitai_struct_compiler/releases) ⭐ 662 | 🐛 75 | 🌐 Scala | 📅 2026-05-04)
+* Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .java / .js / .php / .pm / .py / .rb ([Repository](https://github.com/kaitai-io/kaitai_struct_compiler) ⭐ 662 | 🐛 77 | 🌐 Scala | 📅 2026-05-04, [Releases](https://github.com/kaitai-io/kaitai_struct_compiler/releases) ⭐ 662 | 🐛 77 | 🌐 Scala | 📅 2026-05-04)
 * [nimitai](https://github.com/sealmove/nimitai) ⭐ 19 | 🐛 0 | 🌐 Nim | 📅 2020-11-18: The compiler implemented as macro in Nimlang (.ksy => Nim AST)
 * [kaitaigo](https://github.com/cugu/kaitaigo) ⚠️ Archived: alternative compiler to translate .ksy => .go, written in Golang
 
@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,715 | 🐛 854 | 🌐 Java | 📅 2026-09-25, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,648 | 🐛 54 | 🌐 Python | 📅 2026-09-24, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,716 | 🐛 853 | 🌐 Java | 📅 2026-09-26, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,648 | 🐛 54 | 🌐 Python | 📅 2026-09-25, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -120,10 +120,10 @@ format specifications to be used.
 ## Similar projects / tools
 
 * [construct](https://github.com/construct/construct) ⭐ 1,018 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Python library to create declarative parsers
-* [bindata](https://github.com/dmendel/bindata) ⭐ 653 | 🐛 9 | 🌐 Ruby | 📅 2026-08-04 - Binary data parsing for Ruby
+* [bindata](https://github.com/dmendel/bindata) ⭐ 653 | 🐛 10 | 🌐 Ruby | 📅 2026-08-04 - Binary data parsing for Ruby
 * <https://github.com/j3pic/lisp-binary> ⭐ 103 | 🐛 7 | 🌐 Common Lisp | 📅 2026-07-09 - A library to easily read and write complex binary formats (Common Lisp)
 * <https://github.com/renyxa/re-lab/tree/master/oletoy> ⭐ 84 | 🐛 2 | 🌐 Python | 📅 2021-09-19
-* <https://github.com/fox-it/dissect.cstruct> ⭐ 68 | 🐛 15 | 🌐 Python | 📅 2026-08-10
+* <https://github.com/fox-it/dissect.cstruct> ⭐ 68 | 🐛 15 | 🌐 Python | 📅 2026-09-25
 * <https://github.com/0xdabbad00/icebuddha> ⭐ 59 | 🐛 22 | 🌐 JavaScript | 📅 2014-11-14
 * [BeeSchema](https://github.com/Michael-Kelley/BeeSchema) ⚠️ Archived - Binary Schema Library for C#
 * <https://github.com/frodef/binary-types> ⭐ 41 | 🐛 5 | 🌐 Common Lisp | 📅 2024-05-08 - Read and write binary records for Common Lisp
@@ -145,9 +145,9 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,927 | 🐛 2 | 🌐 C | 📅 2026-09-25 - Parsers for Wireshark
-* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,156 | 🐛 481 | 🌐 C | 📅 2026-09-17 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,604 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,931 | 🐛 2 | 🌐 C | 📅 2026-09-26 - Parsers for Wireshark
+* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,154 | 🐛 482 | 🌐 C | 📅 2026-09-25 - Grammars for different file systems
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,606 | 🐛 92 | 🌐 C | 📅 2026-08-19 - Grammars used by TestDisk and PhotoRec
 * [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,018 | 🐛 36 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
