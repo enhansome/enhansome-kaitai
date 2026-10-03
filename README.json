@@ -87,7 +87,7 @@
             {
               "node_type": "item",
               "title": "Hobbits (Repository",
-              "description": ")",
+              "description": "Mahlet-Inc/hobbits",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -117,7 +117,7 @@
             {
               "node_type": "item",
               "title": "Kaitai Struct: visualizer and hex viewer tool (Repository",
-              "description": ")",
+              "description": "kaitai-io/kaitai_struct_visualizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -317,7 +317,7 @@
             {
               "node_type": "item",
               "title": "pytai (Repository",
-              "description": ")",
+              "description": "Dvd848/pytai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -343,7 +343,7 @@
             {
               "node_type": "item",
               "title": "Kaitai Struct plugin for Binary Ninja (Repository",
-              "description": ")",
+              "description": "Vector35/kaitai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -432,11 +432,11 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T11:53:13Z",
-                    "open_issues": 865,
+                    "last_commit": "2026-10-02T16:05:38Z",
+                    "open_issues": 863,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21719,
+                    "stars": 21723,
                     "topics": [
                       "aot",
                       "compiler",
@@ -532,7 +532,7 @@
         {
           "node_type": "item",
           "title": "EDID (VESA Enhanced Extended Display Identification Data) structure for Kaitai Struct (Repository",
-          "description": ")",
+          "description": "kaitai-io/edid.ksy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "Examples (Repository",
-              "description": ")",
+              "description": "kaitai-io/kaitai_struct_examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -996,7 +996,7 @@
         {
           "node_type": "item",
           "title": "Tests for all languages (Repository",
-          "description": ")",
+          "description": "kaitai-io/kaitai_struct_tests",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1020,7 +1020,7 @@
         {
           "node_type": "item",
           "title": "Benchmarking suite (Repository",
-          "description": ")",
+          "description": "kaitai-io/kaitai_struct_benchmarks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1045,7 +1045,7 @@
         {
           "node_type": "item",
           "title": "Compiled test files (Repository",
-          "description": ")",
+          "description": "kaitai-io/ci_targets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1119,7 +1119,7 @@
         {
           "node_type": "item",
           "title": "Compression processing libraries (Repository",
-          "description": ")",
+          "description": "kaitai-io/kaitai_compress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1220,7 +1220,7 @@
         {
           "node_type": "item",
           "title": "renyxa/re-lab",
-          "description": null,
+          "description": "renyxa/re-lab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1241,7 +1241,7 @@
         {
           "node_type": "item",
           "title": "fox-it/dissect.cstruct",
-          "description": null,
+          "description": "fox-it/dissect.cstruct",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1262,7 +1262,7 @@
         {
           "node_type": "item",
           "title": "0xdabbad00/icebuddha",
-          "description": null,
+          "description": "0xdabbad00/icebuddha",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1354,7 +1354,7 @@
         {
           "node_type": "item",
           "title": "padsproj/pads",
-          "description": null,
+          "description": "padsproj/pads",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1375,7 +1375,7 @@
         {
           "node_type": "item",
           "title": "dtfabric",
-          "description": null,
+          "description": "libyal/dtfabric",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1462,7 +1462,7 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T12:22:27Z",
+                "last_commit": "2026-10-02T22:55:58Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
@@ -1492,7 +1492,7 @@
                 "open_issues": 481,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3157,
+                "stars": 3156,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -1519,7 +1519,7 @@
                 "open_issues": 95,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2615,
+                "stars": 2617,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:04:23.690Z",
+    "last_updated": "2026-10-03T04:51:56.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
