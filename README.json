@@ -432,8 +432,8 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T16:05:38Z",
-                    "open_issues": 864,
+                    "last_commit": "2026-10-05T14:26:13Z",
+                    "open_issues": 867,
                     "owner": "oracle",
                     "repo": "graal",
                     "stars": 21725,
@@ -665,7 +665,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-09-24T06:23:26Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_cpp_stl_runtime",
             "stars": 93,
@@ -1164,7 +1164,7 @@
             "open_issues": 38,
             "owner": "construct",
             "repo": "construct",
-            "stars": 1019,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-28T18:57:44.212Z"
@@ -1462,11 +1462,11 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-04T11:28:37Z",
+                "last_commit": "2026-10-05T10:09:03Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9954,
+                "stars": 9957,
                 "topics": [
                   "packet-capture",
                   "stratoshark",
@@ -1488,8 +1488,8 @@
                 "id": 2562873,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-01T17:00:46Z",
-                "open_issues": 481,
+                "last_commit": "2026-10-04T20:07:31Z",
+                "open_issues": 484,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
                 "stars": 3155,
@@ -1519,7 +1519,7 @@
                 "open_issues": 95,
                 "owner": "cgsecurity",
                 "repo": "testdisk",
-                "stars": 2620,
+                "stars": 2622,
                 "topics": [
                   "datacarving",
                   "datarecovery",
@@ -1547,7 +1547,7 @@
                 "open_issues": 38,
                 "owner": "construct",
                 "repo": "construct",
-                "stars": 1019,
+                "stars": 1020,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:57:44.212Z"
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T12:47:45.007Z",
+    "last_updated": "2026-10-05T15:11:49.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
