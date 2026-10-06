@@ -432,11 +432,11 @@
                     "id": 49662222,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T10:25:45Z",
-                    "open_issues": 867,
+                    "last_commit": "2026-10-06T13:26:33Z",
+                    "open_issues": 869,
                     "owner": "oracle",
                     "repo": "graal",
-                    "stars": 21728,
+                    "stars": 21729,
                     "topics": [
                       "aot",
                       "compiler",
@@ -882,7 +882,7 @@
             "id": 52152968,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-29T11:43:29Z",
+            "last_commit": "2026-10-06T11:43:31Z",
             "open_issues": 2,
             "owner": "kaitai-io",
             "repo": "kaitai_struct_ruby_runtime",
@@ -1462,7 +1462,7 @@
                 "id": 21329550,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-06T09:30:25Z",
+                "last_commit": "2026-10-06T12:55:55Z",
                 "open_issues": 2,
                 "owner": "wireshark",
                 "repo": "wireshark",
@@ -1492,7 +1492,7 @@
                 "open_issues": 483,
                 "owner": "sleuthkit",
                 "repo": "sleuthkit",
-                "stars": 3157,
+                "stars": 3158,
                 "topics": [
                   "forensics",
                   "incident-response",
@@ -1583,7 +1583,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:44:02.979Z",
+    "last_updated": "2026-10-06T13:32:55.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Kaitai Struct tools and resources",
