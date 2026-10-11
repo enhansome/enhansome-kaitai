@@ -2,7 +2,7 @@
 
 A curated list of Kaitai Struct tools and resources
 
-* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,698 | 🐛 531 | 🌐 Shell | 📅 2026-10-05, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,698 | 🐛 531 | 🌐 Shell | 📅 2026-10-05)
+* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,697 | 🐛 529 | 🌐 Shell | 📅 2026-10-11, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,697 | 🐛 529 | 🌐 Shell | 📅 2026-10-11)
 
 ## Compiler
 
@@ -20,7 +20,7 @@ develops .ksy.
 
 * Hobbits ([Repository](https://github.com/Mahlet-Inc/hobbits) ⭐ 754 | 🐛 33 | 🌐 Python | 📅 2025-04-16)
 * Kaitai Struct: visualizer and hex viewer tool ([Repository](https://github.com/kaitai-io/kaitai_struct_visualizer) ⭐ 345 | 🐛 18 | 🌐 Ruby | 📅 2025-10-21)
-* [Kaitai Web IDE](https://ide.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_webide) ⭐ 319 | 🐛 96 | 🌐 TypeScript | 📅 2026-09-24, [Github Page](https://github.com/kaitai-io/ide-kaitai-io.github.io) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-24, [Wiki Documentation](https://github.com/kaitai-io/kaitai_struct_webide/wiki/Features) ⭐ 319 | 🐛 96 | 🌐 TypeScript | 📅 2026-09-24)
+* [Kaitai Web IDE](https://ide.kaitai.io/) ([Repository](https://github.com/kaitai-io/kaitai_struct_webide) ⭐ 318 | 🐛 96 | 🌐 TypeScript | 📅 2026-09-24, [Github Page](https://github.com/kaitai-io/ide-kaitai-io.github.io) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-24, [Wiki Documentation](https://github.com/kaitai-io/kaitai_struct_webide/wiki/Features) ⭐ 318 | 🐛 96 | 🌐 TypeScript | 📅 2026-09-24)
   * [webide-usercontent.kaitai.io](https://github.com/kaitai-io/webide-usercontent.kaitai.io) ⭐ 1 | 🐛 0 | 🌐 HTML | 📅 2017-07-12 - Used in sandboxing for the WebIDE
   * [Web IDE Docs](https://github.com/kaitai-io/kaitai_struct_webide_docs) ⭐ 0 | 🐛 0 | 📅 2017-09-20 - Images for the documentation
 * Kaitai Struct: visualizer and hex viewer tool GUI in Java ([Repository](https://github.com/kaitai-io/kaitai_struct_gui) ⭐ 23 | 🐛 8 | 🌐 Java | 📅 2023-08-01, [Issues](https://github.com/kaitai-io/kaitai_struct_gui/issues) ⭐ 23 | 🐛 8 | 🌐 Java | 📅 2023-08-01)
@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,729 | 🐛 874 | 🌐 Java | 📅 2026-10-10, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,652 | 🐛 58 | 🌐 Python | 📅 2026-10-09, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,728 | 🐛 874 | 🌐 Java | 📅 2026-10-10, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,652 | 🐛 59 | 🌐 Python | 📅 2026-10-09, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -134,7 +134,7 @@ format specifications to be used.
 
 ### Hex Editors
 
-* [hecate](https://github.com/evanmiller/hecate) ⭐ 677 | 🐛 3 | 🌐 Go | 📅 2022-05-03 - Terminal hex editor
+* [hecate](https://github.com/evanmiller/hecate) ⭐ 676 | 🐛 3 | 🌐 Go | 📅 2022-05-03 - Terminal hex editor
 * [hexalepis](https://github.com/sealmove/hexalepis) ⭐ 7 | 🐛 0 | 🌐 Nim | 📅 2020-08-22 - Win/Unix gui+terminal, [tweak](https://www.chiark.greenend.org.uk/~sgtatham/tweak/btree.html) engine, .ksy visualization
 * [Hexinator](https://hexinator.com/) - Windows Version of Synalyze It!
 * [HxD](https://mh-nexus.de/de/hxd/) - Small, fast hex editor for Windows
@@ -145,9 +145,9 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,979 | 🐛 2 | 🌐 C | 📅 2026-10-10 - Parsers for Wireshark
-* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,161 | 🐛 482 | 🌐 C | 📅 2026-10-08 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,626 | 🐛 95 | 🌐 C | 📅 2026-10-04 - Grammars used by TestDisk and PhotoRec
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 9,983 | 🐛 2 | 🌐 C | 📅 2026-10-11 - Parsers for Wireshark
+* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,162 | 🐛 484 | 🌐 C | 📅 2026-10-08 - Grammars for different file systems
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,630 | 🐛 95 | 🌐 C | 📅 2026-10-04 - Grammars used by TestDisk and PhotoRec
 * [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,020 | 🐛 38 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 38 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
