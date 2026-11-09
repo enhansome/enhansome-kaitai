@@ -2,7 +2,7 @@
 
 A curated list of Kaitai Struct tools and resources
 
-* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,733 | 🐛 532 | 🌐 Shell | 📅 2026-10-26, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,733 | 🐛 532 | 🌐 Shell | 📅 2026-10-26)
+* [Main Website](https://kaitai.io/) ([Umbrella Repository](https://github.com/kaitai-io/kaitai_struct) ⭐ 4,736 | 🐛 532 | 🌐 Shell | 📅 2026-10-26, [Github Pages](https://github.com/kaitai-io/kaitai-io.github.io) ⭐ 5 | 🐛 5 | 🌐 HTML | 📅 2026-01-19, [Issues](https://github.com/kaitai-io/kaitai_struct/issues) ⭐ 4,736 | 🐛 532 | 🌐 Shell | 📅 2026-10-26)
 
 ## Compiler
 
@@ -46,7 +46,7 @@ format specifications to be used.
 
 #### Docker images
 
-* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,746 | 🐛 924 | 🌐 Java | 📅 2026-11-08, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,657 | 🐛 84 | 🌐 Python | 📅 2026-11-06, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
+* [`registry.gitlab.com/kaitaistructcompile.py/kaitai_struct_python_docker:latest`](https://gitlab.com/kaitaiStructCompile.py/kaitai_struct_python_docker) - an image with [CPython](https://www.python.org/downloads/), [GraalVM](https://github.com/oracle/graal/releases) ⭐ 21,746 | 🐛 938 | 🌐 Java | 📅 2026-11-09, [GraalPython](https://github.com/oracle/graalpython) ⭐ 1,658 | 🐛 86 | 🌐 Python | 📅 2026-11-09, KSC, python runtime, `kaitaiStructCompile.py`, and its CLI backend. Unstable versions of the software are used. Currently Debian-based, but sometimes this will be migrated to Alpine.
 * [`davefr/kaitai-ksc`](https://hub.docker.com/r/davefr/kaitai-ksc) — Kaitai Struct compiler in a container ([Repository](https://github.com/anonymousatc/kaitai-ksc) ⭐ 0 | 🐛 5 | 🌐 Dockerfile | 📅 2018-09-03)
 * [`blacktop/kaitai`](https://hub.docker.com/r/blacktop/kaitai/)
 * [`librespace/kaitai`](https://hub.docker.com/r/librespace/kaitai) — docker image of the kaitaistruct-compiler used in the Libre Space Foundation Database
@@ -145,9 +145,9 @@ format specifications to be used.
 
 ### File Grammars
 
-* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 10,177 | 🐛 2 | 🌐 C | 📅 2026-11-08 - Parsers for Wireshark
-* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,185 | 🐛 497 | 🌐 C | 📅 2026-10-27 - Grammars for different file systems
-* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,671 | 🐛 94 | 🌐 C | 📅 2026-10-25 - Grammars used by TestDisk and PhotoRec
+* [Wireshark dissectors](https://github.com/wireshark/wireshark/tree/master/epan/dissectors) ⭐ 10,184 | 🐛 2 | 🌐 C | 📅 2026-11-09 - Parsers for Wireshark
+* [Sleuth Kit file system grammars](https://github.com/sleuthkit/sleuthkit/tree/develop/tsk/fs) ⭐ 3,187 | 🐛 497 | 🌐 C | 📅 2026-10-27 - Grammars for different file systems
+* [TestDisk grammars](https://github.com/cgsecurity/testdisk/tree/master/src) ⭐ 2,674 | 🐛 95 | 🌐 C | 📅 2026-11-08 - Grammars used by TestDisk and PhotoRec
 * [Construct formats](https://github.com/construct/construct/tree/master/deprecated_gallery) ⭐ 1,023 | 🐛 40 | 🌐 Python | 📅 2025-04-22 - Parser for different file formats for the python construct package
 * [HFSPlus Grammars](https://github.com/mac4n6/HFSPlus_Resources/tree/master/HFSPlus_Grammars) ⭐ 39 | 🐛 0 | 📅 2015-11-15 - HFS+ grammars for Synalysis
 * [010 Editor Templates](https://www.sweetscape.com/010editor/templates/) - Templates for the 010 Editor
@@ -157,4 +157,4 @@ format specifications to be used.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
